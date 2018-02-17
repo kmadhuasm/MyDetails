@@ -1,2 +1,5 @@
 python code
-a = 90 
+
+my value a = 90 
+
+yours a = 5
